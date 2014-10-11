@@ -1,2 +1,3 @@
-donghui1277.github.io
-=====================
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
