@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "about this jekell theme"
+title: "about this jekyll theme"
 description: 
 headline: 
 modified: 2014-10-11
